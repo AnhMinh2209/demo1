@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/wordgame/cmake-build-debug/CMakeFiles/wordgame.dir
+C:/Users/HP/CLionProjects/wordgame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/wordgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
